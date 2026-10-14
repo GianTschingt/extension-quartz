@@ -1,4 +1,5 @@
 component extends="QuartzSupport" javaSettings='{
+            "loadPaths": ["./java"],
             "maven":[
                {
                     "groupId" : "org.quartz-scheduler",
